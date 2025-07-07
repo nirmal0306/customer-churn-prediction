@@ -87,6 +87,6 @@ Contract type, Internet service, etc.
 
 # Nirmal Barot
 
-# Final-year M.Sc. IT student | Passionate about Data Science & Full Stack
+Final-year M.Sc. IT student | Passionate about Data Science & Full Stack
 
-# 📧 Connect: LinkedIn : https://www.linkedin.com/in/nirmal-barot-0b4356254
+📧 Connect: LinkedIn : https://www.linkedin.com/in/nirmal-barot-0b4356254
