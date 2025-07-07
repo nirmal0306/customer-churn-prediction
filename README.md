@@ -66,13 +66,13 @@ We used the [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blast
    git clone https://github.com/nirmal0306/customer-churn-prediction.git
    cd customer-churn-prediction
 
-#Install dependencies:
+# Install dependencies:
 pip install -r requirements.txt
 
-#Run the Streamlit app:
+# Run the Streamlit app:
 streamlit run app.py
 
-#Example Inputs (in app)
+# Example Inputs (in app)
 Gender: Male/Female
 
 Senior Citizen: Yes/No
@@ -83,10 +83,10 @@ Monthly & Total Charges
 
 Contract type, Internet service, etc.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
-#Nirmal Barot
+# Nirmal Barot
 
-#Final-year M.Sc. IT student | Passionate about Data Science & Full Stack
+# Final-year M.Sc. IT student | Passionate about Data Science & Full Stack
 
-#📧 Connect: LinkedIn : https://www.linkedin.com/in/nirmal-barot-0b4356254
+# 📧 Connect: LinkedIn : https://www.linkedin.com/in/nirmal-barot-0b4356254
