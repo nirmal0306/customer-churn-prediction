@@ -18,7 +18,6 @@ This project is a machine learning-based Streamlit web application that predicts
 ## 🚀 Live Demo
 
 🔗 [**Click here to view the app**](https://customer-churn-prediction-jyjezspsrvaajqgvhwdmvq.streamlit.app/)
-_(You can replace this with your actual Streamlit Cloud link)_
 
 ---
 
