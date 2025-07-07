@@ -84,6 +84,9 @@ Monthly & Total Charges
 Contract type, Internet service, etc.
 
 🙋‍♂️ Author
-Nirmal Barot
-Final-year M.Sc. IT student | Passionate about Data Science & Full Stack
-📧 Connect: LinkedIn : https://www.linkedin.com/in/nirmal-barot-0b4356254
+
+#Nirmal Barot
+
+#Final-year M.Sc. IT student | Passionate about Data Science & Full Stack
+
+#📧 Connect: LinkedIn : https://www.linkedin.com/in/nirmal-barot-0b4356254
